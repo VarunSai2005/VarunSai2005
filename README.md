@@ -10,7 +10,7 @@
 
 🔹 Proficient in C, C++, Python, Java, JavaScript, and C#.
 
-🔹 Interested in Full-Stack Development, Backend Engineering, and Software Architecture.
+🔹 Interested in Full-Stack Development, Backend Engineering, System Design, Agentic AI and Software Architecture.
 
 🚀 Always looking for opportunities to learn, build, and contribute to impactful projects.
 
