@@ -8,7 +8,7 @@
 
 🔹 Experienced in MERN Stack development, Flask API development, ASP.NET and database integration.
 
-🔹 Proficient in C, C++, Python, Java, JavaScript, and C#.
+🔹 Proficient in C, C++, C#, Python, Java, and JavaScript.
 
 🔹 Interested in Full-Stack Development, Backend Engineering, System Design, Agentic AI and Software Architecture.
 
