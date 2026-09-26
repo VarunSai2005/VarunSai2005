@@ -8,11 +8,17 @@
 
 <p align="center">
 🔹 Strong foundation in <b>Data Structures & Algorithms</b> and competitive programming &nbsp;|&nbsp;
+</p>
+
+<p align="center">
 🔹 Experienced in <b>MERN Stack</b>, <b>Flask API</b>, <b>ASP.NET</b> & database integration
 </p>
 
 <p align="center">
 🔹 Proficient in <b>C, C++, C#, Python, Java, JavaScript</b> &nbsp;|&nbsp;
+</p>
+
+<p align="center">
 🔹 Interested in <b>Full-Stack Development, Backend Engineering, System Design, Agentic AI & Software Architecture</b>
 </p>
 
