@@ -7,7 +7,7 @@
 <h3 align="center">💡 Tech Enthusiast passionate about software development, problem solving, and continuous learning</h3>
 
 <p align="center">
-🔹 Strong foundation in <b>Data Structures & Algorithms</b> and competitive programming &nbsp;|&nbsp;
+🔹 Strong foundation in <b>Data Structures & Algorithms</b> and competitive programming.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-🔹 Proficient in <b>C, C++, C#, Python, Java, JavaScript</b> &nbsp;|&nbsp;
+🔹 Proficient in <b>C, C++, C#, Python, Java, JavaScript</b>
 </p>
 
 <p align="center">
